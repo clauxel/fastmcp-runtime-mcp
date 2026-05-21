@@ -1,0 +1,15 @@
+# FastMCP Runtime
+
+FastMCP Runtime is a hosted remote MCP for hosted MCP server.
+
+Website: https://fastmcpruntime.clauxel.com/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: hosted MCP server
+Type: MCP
+Default plan: team
+MCP endpoint: https://fastmcpruntime.clauxel.com/mcp
+Server card: https://fastmcpruntime.clauxel.com/server-card.json
+Registry name: com.clauxel.fastmcpruntime/fastmcpruntime-mcp
+Tools: runtime_health_check, tool_schema_list, fastmcp_call_proxy, usage_receipt_lookup
+
+Public boundary: docs-only repository; no production source code or secrets.
